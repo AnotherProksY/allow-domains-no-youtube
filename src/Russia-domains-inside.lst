@@ -30,6 +30,7 @@ scontent.xx.fbcdn.net
 cdn.fbsbx.com
 internalfb.com
 oculus.com
+meta.com
 
 # Twitter/X. From: https://github.com/v2fly/domain-list-community/blob/master/data/twitter
 ads-twitter.com
@@ -275,6 +276,7 @@ cyberghostvpn.com
 getoutline.org
 vpnpay.io
 protonvpn.com
+surfshark.com
 
 # Hashicorp
 hashicorp.com
@@ -348,6 +350,7 @@ webnames.ca
 intel.com
 www.intel.com
 intel.de
+intel.nl
 apis.intel.com
 ainu.intel.com
 consumer.intel.com
@@ -360,17 +363,24 @@ geolocation.onetrust.com
 
 # Torrent trackers
 nnmclub.to
+nnmstatic.win
 filmitorrent.net
 fast-torrent.club
 kinozal.guru
 cnd2exp.online
 torrentgalaxy.to
+rutor.org
+cdnbunny.org
+rutracker.wiki
 
 # Media
 lostfilmtv2.site
 static.lostfilm.top
 filmix.fm
+filmix.day
+filmix.la
 api.service-kp.com
+kinopub.me
 
 # Media DB
 www.theaudiodb.com
@@ -392,6 +402,7 @@ redis.io
 veeam.com
 snyk.io
 jetbrains.com
+myjetbrains.com
 pingdom.com
 intuitibits.com
 cpu-monkey.com
@@ -404,9 +415,16 @@ codeium.com
 edu-cisco.org
 itninja.com
 smartdeploy.com
+docs.liquibase.com
+cucumber.io
+mongodb.com
 
 # Programs
 zbigz.com
+teamviewer.com
+notepad-plus-plus.org
+app.flourish.studio
+flourish.studio
 
 # AI
 remove.bg
@@ -448,6 +466,7 @@ walmart.com
 bumble.com
 goodreads.com
 gr-assets.com
+alza.hu
 
 # Shops in
 freedomletters.org
@@ -468,6 +487,7 @@ playboy.com
 multporn.net
 rule34.art
 hentai-foundry.com
+nhentai.com
 
 # Anime + dorama
 bato.to
@@ -483,6 +503,23 @@ mangahub.ru
 shikimori.me
 mangadex.org
 e621.net
+jut.su
+animego.org
+amedia.site
+yummyani.me
+kara.su
+animeteatr.tv
+animebest.org
+animedia.tv
+shikimori.org
+animespirit.ru
+big-anime.ru
+sovetromantica.com
+animevost.in
+adultmult.tv
+yandere.tv
+jut.su
+jut-su.net
 
 # Salesforce
 salesforce.com
@@ -543,11 +580,44 @@ discord.store
 discord.tools 
 discordapp.com 
 discordapp.net 
-discordmerch.com 
+discordmerch.com
 discordpartygames.com 
 discord-activities.com 
 discordactivities.com 
 discordsays.com
+
+# HDrezka
+hdrezka.ag
+hdrezka.ac
+hdrezka.me
+static.hdrezka.ac
+voidboost.cc
+stream.voidboost.cc
+rezka.ag
+rezka.my
+rezkify.com
+
+# Autodesk
+autodesk.com
+cdn.web-platform.io
+
+# Heroku
+assets.heroku.com
+herokucdn.com
+
+# Amazon
+gaming.amazon.com
+primevideo.com
+
+# VMware
+vmware.com
+download3.omnissa.com
+
+# Broadcom
+broadcom.com
+
+# quora
+quora.com
 
 # Other
 saverudata.net
@@ -721,5 +791,7 @@ btdig.com
 indiehackers.com
 ngrok.com
 forum.ru-board.com
+kinogo.uk
+liveuamap.com
 xsmart.tv
 app.xsmart.tv
