@@ -70,6 +70,7 @@ ipset=/bcbits.com/vpn_domains
 ipset=/bell-sw.com/vpn_domains
 ipset=/bellingcat.com/vpn_domains
 ipset=/bestbuy.com/vpn_domains
+ipset=/bidfax.info/vpn_domains
 ipset=/bihus.info/vpn_domains
 ipset=/bitdefender.com/vpn_domains
 ipset=/blackseanews.net/vpn_domains
