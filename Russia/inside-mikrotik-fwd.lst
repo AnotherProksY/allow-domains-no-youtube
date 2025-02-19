@@ -591,7 +591,12 @@
 /ip dns static add name=shop.gameloft.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=showip.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=sibreal.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=signal.art type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=signal.group type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=signal.link type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=signal.me type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=signal.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=signal.tube type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=simplex.chat type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=simplex.im type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=simplix.info type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
