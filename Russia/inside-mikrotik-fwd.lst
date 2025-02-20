@@ -726,6 +726,7 @@
 /ip dns static add name=vesma.one type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=vesma.today type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=vesty.co.il type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=viber.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=vice.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=vine.co type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=visualcapitalist.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
