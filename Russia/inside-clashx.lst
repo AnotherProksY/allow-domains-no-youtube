@@ -126,6 +126,7 @@ DOMAIN-SUFFIX,coinsbee.com
 DOMAIN-SUFFIX,coldfilm.xyz
 DOMAIN-SUFFIX,colta.ru
 DOMAIN-SUFFIX,community.sophos.com
+DOMAIN-SUFFIX,coomer.su
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,coursera.org
 DOMAIN-SUFFIX,cpu-monkey.com
@@ -256,6 +257,7 @@ DOMAIN-SUFFIX,getoutline.com
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,gfn.am
 DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,ghostrc.game.idtech.services
 DOMAIN-SUFFIX,global.fncstatic.com
 DOMAIN-SUFFIX,glpals.com
 DOMAIN-SUFFIX,godaddy.com
@@ -271,6 +273,7 @@ DOMAIN-SUFFIX,grafana.com
 DOMAIN-SUFFIX,grani.ru
 DOMAIN-SUFFIX,graty.me
 DOMAIN-SUFFIX,graylog.org
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,groupon.com
 DOMAIN-SUFFIX,guilded.gg
@@ -342,6 +345,7 @@ DOMAIN-SUFFIX,kara.su
 DOMAIN-SUFFIX,kasparov.ru
 DOMAIN-SUFFIX,kavkaz-uzel.eu
 DOMAIN-SUFFIX,kavkazr.com
+DOMAIN-SUFFIX,kemono.su
 DOMAIN-SUFFIX,keysight.com
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,kinogo.ec
@@ -444,6 +448,7 @@ DOMAIN-SUFFIX,nippon.com
 DOMAIN-SUFFIX,nitropdf.com
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,nnmstatic.win
+DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notion.com
@@ -499,6 +504,7 @@ DOMAIN-SUFFIX,platform.activestate.com
 DOMAIN-SUFFIX,playboy.com
 DOMAIN-SUFFIX,plugshare.com
 DOMAIN-SUFFIX,polit.ru
+DOMAIN-SUFFIX,politico.eu
 DOMAIN-SUFFIX,politiken.dk
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,pornhub.com
@@ -540,9 +546,11 @@ DOMAIN-SUFFIX,reddxxx.com
 DOMAIN-SUFFIX,redgifs.com
 DOMAIN-SUFFIX,redis.io
 DOMAIN-SUFFIX,redshieldvpn.com
+DOMAIN-SUFFIX,remna.st
 DOMAIN-SUFFIX,remove.bg
 DOMAIN-SUFFIX,render-state.to
 DOMAIN-SUFFIX,rentry.co
+DOMAIN-SUFFIX,rentry.org
 DOMAIN-SUFFIX,republic.ru
 DOMAIN-SUFFIX,research.net
 DOMAIN-SUFFIX,returnyoutubedislikeapi.com
@@ -611,6 +619,7 @@ DOMAIN-SUFFIX,sky.com
 DOMAIN-SUFFIX,skycdp.com
 DOMAIN-SUFFIX,slashlib.me
 DOMAIN-SUFFIX,slavicsac.com
+DOMAIN-SUFFIX,smartbear.co
 DOMAIN-SUFFIX,smartbear.com
 DOMAIN-SUFFIX,smartdeploy.com
 DOMAIN-SUFFIX,snort.org
@@ -622,6 +631,7 @@ DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,sovetromantica.com
 DOMAIN-SUFFIX,spacelift.io
 DOMAIN-SUFFIX,spektr.press
+DOMAIN-SUFFIX,spitfireaudio.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spreadthesign.com
 DOMAIN-SUFFIX,sputnikipogrom.com
@@ -636,6 +646,7 @@ DOMAIN-SUFFIX,strana.today
 DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,suggestqueries.google.com
 DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,support.xerox.com
 DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,surveymonkey.com
 DOMAIN-SUFFIX,suspilne.media
@@ -653,6 +664,7 @@ DOMAIN-SUFFIX,te-st.org
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,telegraf.by
 DOMAIN-SUFFIX,telegraf.news
+DOMAIN-SUFFIX,telegraph.co.uk
 DOMAIN-SUFFIX,telemetr.io
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,temu.com
@@ -681,6 +693,7 @@ DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiktokw.us
 DOMAIN-SUFFIX,timberland.de
 DOMAIN-SUFFIX,tmdb-image-prod.b-cdn.net
+DOMAIN-SUFFIX,tmdb.com
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,torrentgalaxy.to
 DOMAIN-SUFFIX,trailblazer.me
@@ -692,6 +705,7 @@ DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tuta.com
 DOMAIN-SUFFIX,tuta.io
+DOMAIN-SUFFIX,tutanota.com
 DOMAIN-SUFFIX,tvfreedom.io
 DOMAIN-SUFFIX,tvrain.ru
 DOMAIN-SUFFIX,tvrain.tv
@@ -712,6 +726,7 @@ DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,typing.com
+DOMAIN-SUFFIX,uaudio.com
 DOMAIN-SUFFIX,ui.ill.in.ua
 DOMAIN-SUFFIX,ukr.net
 DOMAIN-SUFFIX,ukr.radio
@@ -729,6 +744,7 @@ DOMAIN-SUFFIX,vesty.co.il
 DOMAIN-SUFFIX,viber.com
 DOMAIN-SUFFIX,vice.com
 DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,vipergirls.to
 DOMAIN-SUFFIX,visualcapitalist.com
 DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,vndb.org
@@ -757,6 +773,7 @@ DOMAIN-SUFFIX,windows10spotlight.com
 DOMAIN-SUFFIX,wonderzine.com
 DOMAIN-SUFFIX,wpengine.com
 DOMAIN-SUFFIX,www3.corsair.com
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xhamsterlive.com
