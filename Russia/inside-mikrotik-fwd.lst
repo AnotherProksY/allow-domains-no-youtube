@@ -256,7 +256,6 @@
 /ip dns static add name=getoutline.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=getoutline.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=gfn.am type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
-/ip dns static add name=ggpht.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=ghostrc.game.idtech.services type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=global.fncstatic.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=glpals.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -266,7 +265,6 @@
 /ip dns static add name=golosameriki.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=gonitro.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=goodreads.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
-/ip dns static add name=googlevideo.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=gpsonextra.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=gr-assets.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=grafana.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -335,7 +333,6 @@
 /ip dns static add name=jamf.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jetbrains.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jetbrains.space type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
-/ip dns static add name=jnn-pa.googleapis.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jskor.ill.in.ua type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jut-su.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jut.su type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -765,7 +762,6 @@
 /ip dns static add name=weebly.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=welt.de type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=whatismyipaddress.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
-/ip dns static add name=wide-youtube.l.google.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=wiki.fextralife.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=wikidot.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=wilsoncenter.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -782,16 +778,6 @@
 /ip dns static add name=xv-ru.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=xvideos.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=yle.fi type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
-/ip dns static add name=youtu.be type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
-/ip dns static add name=youtube-nocookie.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
-/ip dns static add name=youtube-ui.l.google.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
-/ip dns static add name=youtube.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
-/ip dns static add name=youtubeembeddedplayer.googleapis.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
-/ip dns static add name=youtubei.googleapis.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
-/ip dns static add name=youtubekids.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
-/ip dns static add name=yt-video-upload.l.google.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
-/ip dns static add name=ytimg.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
-/ip dns static add name=ytimg.l.google.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=yummyani.me type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=zahav.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=zapier.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
