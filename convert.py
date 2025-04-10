@@ -20,7 +20,7 @@ DiscordSubnets = 'Subnets/IPv4/discord.lst'
 MetaSubnets = 'Subnets/IPv4/meta.lst'
 TwitterSubnets = 'Subnets/IPv4/twitter.lst'
 TelegramSubnets = 'Subnets/IPv4/telegram.lst'
-ExcludeServices = {"telegram.lst"}
+ExcludeServices = {"telegram.lst", "discord.lst"}
 
 def raw(src, out):
     domains = set()
