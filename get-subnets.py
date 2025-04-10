@@ -18,10 +18,10 @@ TWITTER = 'twitter.lst'
 TELEGRAM = 'telegram.lst'
 
 # From https://iplist.opencck.org/
-DISCORD_VOICE_V4='https://iplist.opencck.org/?format=text&data=cidr4&site=discord.gg&site=discord.media'
-DISCORD_VOICE_V6='https://iplist.opencck.org/?format=text&data=cidr6&site=discord.gg&site=discord.media'
-
-DISCORD = 'discord.lst'
+# DISCORD_VOICE_V4='https://iplist.opencck.org/?format=text&data=cidr4&site=discord.gg&site=discord.media'
+# DISCORD_VOICE_V6='https://iplist.opencck.org/?format=text&data=cidr6&site=discord.gg&site=discord.media'
+# 
+# DISCORD = 'discord.lst'
 
 TELEGRAM_CIDR_URL = 'https://core.telegram.org/resources/cidr.txt'
 
@@ -119,9 +119,9 @@ if __name__ == '__main__':
     write_subnets_to_file(ipv6_merged_twitter, f'{IPv6_DIR}/{TWITTER}')
 
     # Discord voice
-    ipv4_discord, ipv6_discord = download_ready_subnets(DISCORD_VOICE_V4, DISCORD_VOICE_V6)
-    write_subnets_to_file(ipv4_discord, f'{IPv4_DIR}/{DISCORD}')
-    write_subnets_to_file(ipv6_discord, f'{IPv6_DIR}/{DISCORD}')
+    # ipv4_discord, ipv6_discord = download_ready_subnets(DISCORD_VOICE_V4, DISCORD_VOICE_V6)
+    # write_subnets_to_file(ipv4_discord, f'{IPv4_DIR}/{DISCORD}')
+    # write_subnets_to_file(ipv6_discord, f'{IPv6_DIR}/{DISCORD}')
 
     # Telegram
     ipv4_telegram, ipv6_telegram = download_ready_split_subnets(TELEGRAM_CIDR_URL)
@@ -133,5 +133,5 @@ if __name__ == '__main__':
     copy_file_legacy(f'{IPv6_DIR}/{META}')
     copy_file_legacy(f'{IPv4_DIR}/{TWITTER}')
     copy_file_legacy(f'{IPv6_DIR}/{TWITTER}')
-    copy_file_legacy(f'{IPv4_DIR}/{DISCORD}')
-    copy_file_legacy(f'{IPv6_DIR}/{DISCORD}')
+    # copy_file_legacy(f'{IPv4_DIR}/{DISCORD}')
+    # copy_file_legacy(f'{IPv6_DIR}/{DISCORD}')
